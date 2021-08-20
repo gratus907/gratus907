@@ -1,16 +1,22 @@
-### Hi there 👋
+## Wonseok Shin (Gratus907)
+### 📫 Profile
+- Wonseok Shin (Usually I use username **Gratus907** and it's variants)
+- Seoul National University
+  - Major : Computer Science and Engineering
+  - Double major : Mathematical Sciences
+- More about me [In Korean](https://gratus907.github.io/about-me/) [In English](https://gratus907.github.io/about-me/eng/)
 
-<!--
-**gratus907/gratus907** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🤔 Interests
+- Design and analysis of algorithms
+- Optimization algorithms
+- Enjoys problem solving / competitive programming
 
-Here are some ideas to get you started:
+### 💻 Competitive Programming
+- BOJ : [gratus907](https://www.acmicpc.net/user/gratus907)
+- Codeforces : [gratus907](https://codeforces.com/profile/gratus907)
+- Atcoder : [Gratus](https://atcoder.jp/users/Gratus)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![CodeForces Profile](http://cf.leed.at/?id=gratus907)](https://codeforces.com/profile/gratus907)
+
+[![Solvedac profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=gratus907)](https://solved.ac/profile/gratus907)
+
