@@ -7,9 +7,9 @@
 - More about me [In Korean](https://gratus907.github.io/about-me/) [In English](https://gratus907.github.io/about-me/eng/)
 
 ### 🤔 Interests
-- Design and analysis of algorithms
-- Optimization algorithms
-- Enjoys problem solving / competitive programming
+- Graph algorithms
+- Graph data mining
+- Enjoys problem solving / competitive programming :)
 
 ### 💻 Competitive Programming
 - BOJ : [gratus907](https://www.acmicpc.net/user/gratus907)
