@@ -1,12 +1,14 @@
 ## Wonseok Shin (Gratus907)
 ### 📫 Profile
 - Wonseok Shin (Usually I use username **Gratus907** and it's variants)
-- (2022.09-) Graduate Student at Seoul National University
-  - Dept. of Computer Science and Engineering, Computer Theory and Applications Lab
-- 2018-2022 B.S in Computer Science and Engineering, Mathematical Sciences at Seoul National University
+- 2024.09 - Present: AI Scientist at Standigm Inc.
+- 2022.09 - 2024.08: M.S in Computer Science and Engineering Seoul National University
+  - Computer Theory and Applications Lab
+- 2018.03 - 2022.08: B.S in Computer Science and Engineering, Mathematical Sciences at Seoul National University
 - More about me [In Korean](https://gratus907.github.io) [In English](https://gratus907.github.io)
 
 ### 🤔 Research Interests
+- Machine learning on graphs and applications
 - Efficient algorithms on large scale graph data
 - Algorithms and applications of graph data mining
 
